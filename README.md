@@ -5,7 +5,7 @@ This is a number guessing game via [Codecademy](https://www.codecademy.com/learn
 Javascript, HTML and CSS was used for this game.
 
 ### Why was this project made?
-This project was made for entertainment purposes and to reudce the risk of errors.
+This project was made for entertainment purposes and to reduce the risk of errors.
 
 Here is a picture of the project here:
 ![numberGuesser](https://user-images.githubusercontent.com/96252845/158479696-a512e7e3-f4a3-498d-b3f2-658373157478.jpeg)
